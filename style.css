@@ -7,7 +7,7 @@
 border-radius use for round border */
     /* margin:auto use for content middle center */
 
-    height: 200px;
+    height: 210px;
     width: 200px;
     border: 1px solid red;
     border-radius: 4px;
