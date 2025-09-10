@@ -1,0 +1,33 @@
+/* .box & .para use for class */
+.box {
+
+    /* height use for box up to down */
+    /* width use for box left to right */
+    /* border use for create border
+border-radius use for round border */
+    /* margin:auto use for content middle center */
+
+    height: 200px;
+    width: 200px;
+    border: 1px solid red;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin: auto;
+    /* margin-top: 40px;
+    margin-left: 40px;
+    padding-top: 10px; */
+    background-color: aqua;
+}
+
+.para {
+    /*margin-top use create space in content top  */
+    /*margin-left use create space in content left  */
+    /*margin-right use create space in content right  */
+    /*padding-left use create space in text left */
+
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 5px;
+
+}
